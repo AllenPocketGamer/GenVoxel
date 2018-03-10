@@ -3,7 +3,7 @@
 * GenVoxel是在Unity3D生成体素地形（类Minecraft）的工具。它主要由两部分组成：
     * 1.体素地形管理器(Component)
         * ![GenVoxel Manager](https://github.com/AllenPocketGamer/GenVoxel/blob/master/Temp%20Show%20Imgs/VoxManager.PNG)
-    * 2.地形生成规则编辑器(Editor)
+    * 2.地形生成规则编辑器(Editor)
 * 地形生成规则编辑器 用于生成 定制的 地形生成规则 资源。然后将定制的资源赋予 体素地形管理器 来生成 定制的体素地形。
 ### 体素地形管理器 功能
 * 1.体素地形数据到网格数据的转换
