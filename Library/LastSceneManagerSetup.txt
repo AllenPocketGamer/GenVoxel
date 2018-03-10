@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AllenPocket/_GenVoxel/_Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1

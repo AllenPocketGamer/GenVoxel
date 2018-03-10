@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5861c71713747a04ba51509ebfca4724
+timeCreated: 1518938704
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rule: {fileID: 11400000, guid: 242e88dd3b6afd840aaa35e74a6095ab, type: 2}
+  - voxMaterial: {fileID: 2100000, guid: c8d370e350df4f34eb454a2bcb881a85, type: 2}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: bab9c454954f5274cb9c6f15d3742702, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
